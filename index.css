@@ -91,6 +91,10 @@ ul {
 	/*color: #0084B4 !important;*/
 }
 
+.arrow-next:hover, .arrow-prev:hover {
+  cursor: pointer;
+}
+
 .trips {
   margin-top: 15px;
   margin-bottom: 15px;
