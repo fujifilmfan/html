@@ -2,6 +2,8 @@
 <html>
 
 <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<title>Kurt's home page</title>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -57,6 +59,7 @@
 						<h2>Play</h2>
 					</div>
 					<div class="entry-content">
+						<p>Click each row to see pictures from that trip.</p>
 						<div class="trips">
 
 							<div class="trip active-photo">
@@ -79,7 +82,7 @@
 								</div>
 								<div class="photo row" style="">
 									<div class="col-sm-3 arrow-prev">
-										<p><</p>
+										<p>&lt;</p>
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
@@ -108,7 +111,7 @@
 										</div>
 									</div>
 									<div class="col-sm-3 arrow-next">
-										<p>></p>
+										<p>&gt;</p>
 									</div>
 								</div>
 							</div>
@@ -133,7 +136,7 @@
 								</div>
 								<div class="photo row" style="">
 									<div class="col-sm-3 arrow-prev">
-										<p><</p>
+										<p>&lt;</p>
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
@@ -158,7 +161,7 @@
 										</div>
 									</div>
 									<div class="col-sm-3 arrow-next">
-										<p>></p>
+										<p>&gt;</p>
 									</div>
 								</div>
 							</div>
@@ -183,7 +186,7 @@
 								</div>
 								<div class="photo row" style="">
 									<div class="col-sm-3 arrow-prev">
-										<p><</p>
+										<p>&lt;</p>
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
@@ -204,7 +207,7 @@
 										</div>
 									</div>
 									<div class="col-sm-3 arrow-next">
-										<p>></p>
+										<p>&gt;</p>
 									</div>
 								</div>
 							</div>
@@ -229,7 +232,7 @@
 								</div>
 								<div class="photo row" style="">
 									<div class="col-sm-3 arrow-prev">
-										<p><</p>
+										<p>&lt;</p>
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
@@ -242,7 +245,7 @@
 										</div>
 									</div>
 									<div class="col-sm-3 arrow-next">
-										<p>></p>
+										<p>&gt;</p>
 									</div>
 								</div>
 							</div>
