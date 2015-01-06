@@ -274,6 +274,7 @@
 									<li>make PNGs</li>
 									<li>normalize sizes as much as possible</li>
 								</ul>
+							<li>Test</li>
 						</ul>
 						<ul>Other projects
 							<li>add pages for other projects (like the solar system animation)</li>
