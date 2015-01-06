@@ -1,27 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 
 <head>
-	<meta charset="utf-8" />
-	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<title>Kurt's home page</title>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Permanent+Marker">
-	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Walter+Turncoat">
-	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
-	<link href="navigation.css" rel="stylesheet" type="text/css" />
+	<?php include "/includes/header.php";?>
+	<title>Kurt Klein | Beer Wall | Coding Projects</title>
+	<meta name="description" content="Kurt Klein's home page, contact information, virtual Beer Wall, and other coding projects.">
+	<meta name="keywords" content="Kurt Klein, Kurt, Klein, beer, bottles, beer bottles, backpacking, pictures, photography, web apps, projects">
 	<link href="index.css" rel="stylesheet" type="text/css" />
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-	<script type="text/javascript"></script>
-	<script src="index.js"></script>
-
-<!--Query the database for the selected beer type-->
 
 </head>
 
 <body>
-	<?php include 'navigation.php';?>
+	<?php include "/includes/navigation.php";?>
 
 	<!-- Introduction -->
 	<div class="banner">
@@ -36,7 +26,7 @@
 						<br>
 						<p>Hi, welcome to my personal website!  This page is currently intended to serve several purposes: it is part demo page
 							(showing responsive web design), part portal (check out the as-yet-unfinished
-							<a href="bottles.php">beer wall</a>, and partly autobiographical. Enjoy!</p>
+							<a href="bottles.php">beer wall</a>), and partly autobiographical. Enjoy!</p>
 					</div>
 				</div>
 				<div class="entry">
@@ -417,5 +407,7 @@
 		</div>
 	</div>
 
+	<script src="index.js"></script>
+	<?php include "/includes/footer.php";?>
 </body>
 </html>
