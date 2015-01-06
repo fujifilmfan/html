@@ -408,7 +408,7 @@
 		</div>
 	</div>
 
-	<script src="index.js"></script>
 	<?php include "includes/footer.php";?>
+	<script src="index.js"></script>
 </body>
 </html>
