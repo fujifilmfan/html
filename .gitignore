@@ -1,5 +1,6 @@
 *
 !.gitignore
 !index*
+!bottles.*
 !includes/
 !includes/*

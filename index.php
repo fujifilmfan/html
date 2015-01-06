@@ -7,7 +7,6 @@
 	<meta name="description" content="Kurt Klein's home page, contact information, virtual Beer Wall, and other coding projects.">
 	<meta name="keywords" content="Kurt Klein, Kurt, Klein, beer, bottles, beer bottles, backpacking, pictures, photography, web apps, projects">
 	<link href="index.css" rel="stylesheet" type="text/css" />
-
 </head>
 
 <body>
