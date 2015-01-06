@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-	<?php include "/includes/header.php";?>
+	<?php include "includes/header.php";?>
 	<title>Kurt Klein | Beer Wall | Coding Projects</title>
 	<meta name="description" content="Kurt Klein's home page, contact information, virtual Beer Wall, and other coding projects.">
 	<meta name="keywords" content="Kurt Klein, Kurt, Klein, beer, bottles, beer bottles, backpacking, pictures, photography, web apps, projects">
@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<?php include "/includes/navigation.php";?>
+	<?php include "includes/navigation.php";?>
 
 	<!-- Introduction -->
 	<div class="banner">
@@ -408,6 +408,6 @@
 	</div>
 
 	<script src="index.js"></script>
-	<?php include "/includes/footer.php";?>
+	<?php include "includes/footer.php";?>
 </body>
 </html>
