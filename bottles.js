@@ -41,7 +41,7 @@ var main = function() {
         console.log("province: " + province);
         console.log("country: " + country);
 
-        $.get( "bottles-query-selections.php", {
+        $.get( "includes/bottles-query-selections.php", {
             category : selectedCategory,
             type : type,
             brewery : brewery,
@@ -56,6 +56,6 @@ var main = function() {
             }
         );
     });
-});
+};
 
 $(document).ready(main); 
