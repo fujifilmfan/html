@@ -1,4 +1,5 @@
 *
+includes/.DS_Store
 !.gitignore
 !index*
 !bottles.*
