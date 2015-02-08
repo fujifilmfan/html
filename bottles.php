@@ -13,7 +13,7 @@
 
 <body>
 	<?php include "includes/navigation.php";?>
-	<?php include "bottles-config.php"; ?>
+	<?php include "includes/bottles-config.php"; ?>
 
 	<!-- Introduction -->
 	<div class="welcome">

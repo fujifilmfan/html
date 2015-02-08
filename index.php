@@ -14,7 +14,7 @@
 
 	<!-- Introduction -->
 	<div class="banner">
-		<img src="/resources/P1110300-02-04.jpg">
+		<img src="resources/P1110300-02-04.jpg">
 	</div>
 	<div class="container-fluid">
 		<div class="row">
@@ -75,27 +75,27 @@
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
-											<img src="/resources/slides/Bishop_Pass-8-2014/P1110181.jpg">
+											<img src="resources/slides/Bishop_Pass-8-2014/P1110181.jpg">
 											<p class="caption">Second backpacking trip of the summer, covering fewer miles than on the first trip so that there was more time to play and explore around the lakes</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Bishop_Pass-8-2014/P1110200.jpg">
+											<img src="resources/slides/Bishop_Pass-8-2014/P1110200.jpg">
 											<p class="caption">Golden-mantled ground squirrel, my dad tells me</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Bishop_Pass-8-2014/P1110236.jpg">	
+											<img src="resources/slides/Bishop_Pass-8-2014/P1110236.jpg">	
 											<p class="caption">Flowers hanging to rock wall near creek</p>								
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Bishop_Pass-8-2014/P1110255.jpg">
+											<img src="resources/slides/Bishop_Pass-8-2014/P1110255.jpg">
 											<p class="caption">Mt. Agassiz</p>					
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Bishop_Pass-8-2014/P1110258.jpg">
+											<img src="resources/slides/Bishop_Pass-8-2014/P1110258.jpg">
 											<p class="caption">Playing battleship in the tent</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Bishop_Pass-8-2014/P1110268.jpg">
+											<img src="resources/slides/Bishop_Pass-8-2014/P1110268.jpg">
 											<p class="caption">Sunrise</p>
 										</div>
 									</div>
@@ -129,23 +129,23 @@
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
-											<img src="/resources/slides/Big_Bear-7-2014/P1100822.jpg">
+											<img src="resources/slides/Big_Bear-7-2014/P1100822.jpg">
 											<p class="caption">A stormy sunset over the lake</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Big_Bear-7-2014/P1100829.jpg">
+											<img src="resources/slides/Big_Bear-7-2014/P1100829.jpg">
 											<p class="caption">I'm a cloud fan</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Big_Bear-7-2014/P1100888.jpg">
+											<img src="resources/slides/Big_Bear-7-2014/P1100888.jpg">
 											<p class="caption">Dirty lupine leaves from raindrop-induced mud-splatter</p>									
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Big_Bear-7-2014/P1100940.jpg">
+											<img src="resources/slides/Big_Bear-7-2014/P1100940.jpg">
 											<p class="caption">Flowers and rusty mining equipment in Holcomb Valley</p>									
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Big_Bear-7-2014/P1100810.jpg">
+											<img src="resources/slides/Big_Bear-7-2014/P1100810.jpg">
 											<p class="caption">This was practically a family reunion, with 10 of us in the cabin for several days</p>								
 										</div>
 									</div>
@@ -179,19 +179,19 @@
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
-											<img src="/resources/slides/Cottonwood_Lakes-7-2014/P1100586.jpg">
+											<img src="resources/slides/Cottonwood_Lakes-7-2014/P1100586.jpg">
 											<p class="caption">My son's first backpacking trip! Storm clearing our first day</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Cottonwood_Lakes-7-2014/P1100612.jpg">
+											<img src="resources/slides/Cottonwood_Lakes-7-2014/P1100612.jpg">
 											<p class="caption">He loves the moon, so I took a 6 a.m. picture</p>								
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Cottonwood_Lakes-7-2014/P1100672.jpg">
+											<img src="resources/slides/Cottonwood_Lakes-7-2014/P1100672.jpg">
 											<p class="caption">Sunrise in the Cottonwood Lakes Basin</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Cottonwood_Lakes-7-2014/P1100691.jpg">
+											<img src="resources/slides/Cottonwood_Lakes-7-2014/P1100691.jpg">
 											<p class="caption">We were only out one night but hiked 14 miles, including an ascent of Army Pass</p>
 										</div>
 									</div>
@@ -225,11 +225,11 @@
 									</div>
 									<div class="col-sm-6">
 										<div class="slide active-slide">
-											<img src="/resources/slides/Big_Bear-5-2014/P1100212.jpg" title="lupine flowers">
+											<img src="resources/slides/Big_Bear-5-2014/P1100212.jpg" title="lupine flowers">
 											<p class="caption">I don't take as many pictures in Big Bear as on other trips, perhaps because I go there a few times a year, but I will not usually pass up the opportunity to photograph lupines!</p>
 										</div>
 										<div class="slide">
-											<img src="/resources/slides/Big_Bear-5-2014/P1100215.jpg" title="lupine leaves">
+											<img src="resources/slides/Big_Bear-5-2014/P1100215.jpg" title="lupine leaves">
 											<p class="caption">I like the leaf shape</p>
 										</div>
 									</div>
@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-sm-2 icons">
 							<a href="http://www.last.fm/user/Kurt_K">
-								<img src="/resources/icons/lastfm.png">
+								<img src="resources/icons/lastfm.png">
 							</a>
 						</div>
 
@@ -307,7 +307,7 @@
 					<div class="row">
 						<div class="col-sm-2 icons">
 							<a href="https://github.com/fujifilmfan">
-								<img src="/resources/icons/github.png">
+								<img src="resources/icons/github.png">
 							</a>
 						</div>
 
@@ -324,7 +324,7 @@
 					<div class="row">
 						<div class="col-sm-2 icons">
 							<a href="https://twitter.com/kurtklein">
-								<img src="/resources/icons/twitter.png">
+								<img src="resources/icons/twitter.png">
 							</a>
 						</div>
 
@@ -356,7 +356,7 @@
 					<div class="row">
 						<div class="col-sm-2 icons">
 							<a href="https://www.diigo.com/user/acetone">
-								<img src="/resources/icons/diigo.png">
+								<img src="resources/icons/diigo.png">
 							</a>
 						</div>
 
@@ -373,7 +373,7 @@
 					<div class="row">
 						<div class="col-sm-2 icons">
 							<a href="https://www.linkedin.com/pub/kurt-klein/">
-								<img src="/resources/icons/linkedin.png">
+								<img src="resources/icons/linkedin.png">
 							</a>
 						</div>
 
@@ -389,7 +389,7 @@
 					<div class="row">
 						<div class="col-sm-2 icons">
 							<a href="https://www.diigo.com/user/acetone">
-								<img src="/resources/icons/facebook.png">
+								<img src="resources/icons/facebook.png">
 							</a>
 						</div>
 

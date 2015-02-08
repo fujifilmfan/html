@@ -1,4 +1,5 @@
 <?php
+
 	include "bottles-config.php";
 
 	// Each 'if' function sets a variable to the incoming request value.  
