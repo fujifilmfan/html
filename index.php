@@ -243,7 +243,7 @@
 				</div>
 				<div class="entry">
 					<div class="entry-header">
-						<h2>Projects</h2>
+						<h2>Projects (to-do list)</h2>
 					</div>
 					<div class="entry-content">
 						<br>
