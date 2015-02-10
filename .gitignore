@@ -3,6 +3,8 @@ includes/.DS_Store
 !.gitignore
 !index*
 !bottles.*
+!Codecademy*
+!projects*
 !includes/
 !includes/*
 !resources
