@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background-image: url('resources/backgrounds/news_reader.png');
+  background-image: url('resources/projects/Codecademy-news_reader/news_reader_background.png');
   background-repeat: no-repeat;
   -webkit-background-size: cover;
      -moz-background-size: cover;
