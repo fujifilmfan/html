@@ -28,11 +28,10 @@
 				<div class="row">
 					<div class="col-sm-5">
 						<div class="preview">
-							<a href="Codecademy-news_reader.php"><img src="resources/projects/Codecademy-news_reader/news_reader_screenshot.png"></a>
-							<p class="caption">Project: News Reader (Codecademy)</p>
+							<a href="Codecademy-Flipboard.php"><img src="resources/projects/Codecademy-Flipboard/Flipboard_screenshot.png"></a>
+							<p class="caption">Project: Flipboard interactive website (Codecademy)</p>
 							<p class="caption">Emphasis: jQuery events</p>
-							<p class="caption">Completed: 26 October 2014</p>
-							<p class="caption">Modifications: arrow key navigation, looping through articles, bg image fills space w/o tiling</p>
+							<p class="caption">Completed: 8 November 2014</p>	
 						</div>
 					</div>
 					<div class="col-sm-2">
@@ -40,7 +39,11 @@
 					</div>
 					<div class="col-sm-5">
 						<div class="preview">
-							
+							<a href="Codecademy-news_reader.php"><img src="resources/projects/Codecademy-news_reader/news_reader_screenshot.png"></a>
+							<p class="caption">Project: News Reader (Codecademy)</p>
+							<p class="caption">Emphasis: jQuery events</p>
+							<p class="caption">Completed: 26 October 2014</p>
+							<p class="caption">Modifications: arrow key navigation, looping through articles, bg image fills space w/o tiling</p>
 						</div>
 					</div>
 				</div>
