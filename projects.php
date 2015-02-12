@@ -28,7 +28,7 @@
 				<div class="row">
 					<div class="col-sm-5">
 						<div class="preview">
-							<a href="Codecademy-news_reader.php"><img src="resources/slides/projects/Codecademy-news_reader.png"></a>
+							<a href="Codecademy-news_reader.php"><img src="resources/projects/Codecademy-news_reader/news_reader_screenshot.png"></a>
 							<p class="caption">Project: News Reader (Codecademy)</p>
 							<p class="caption">Emphasis: jQuery events</p>
 							<p class="caption">Completed: 26 October 2014</p>
