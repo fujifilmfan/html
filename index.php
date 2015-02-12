@@ -39,8 +39,6 @@
 							at the JPL Invention Challenge on December 5th.  
 							You can read about it <a href="http://www.jpl.nasa.gov/events/inventionchallenge/2014/index.cfm">here</a> (pictures to follow shortly, I expect)
 							 or <a href="http://www.villagechristian.org/news-items/engineering-club-competes-at-jpl.aspx">here</a>.</p>
-							<p>My current goal is to find employment as a web or 
-							software developer. The reasons are numerous, but at or near the top of the list is my desire to think and problem-solve full-time.</p>
 					</div>
 				</div>
 				<div class="entry">
