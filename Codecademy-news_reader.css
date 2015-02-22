@@ -71,3 +71,9 @@ p {
   margin-top: 0px;
   font-size: 23px;
 }
+
+/* footer */
+
+#copyright {
+  text-align: center;
+}

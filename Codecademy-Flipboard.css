@@ -189,3 +189,9 @@
 .get-app img {
   height: 40px;
 }
+
+/* footer */
+
+#copyright {
+  text-align: center;
+}
