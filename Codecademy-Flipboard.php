@@ -132,3 +132,4 @@
     <?php include "includes/footer.php";?>
     <script src="Codecademy-Flipboard.js"></script>
 </body>
+</html>
