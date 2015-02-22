@@ -51,17 +51,31 @@
 			<div class="col-xs-2">
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="col-xs-2">
+			</div>
+			<div class="col-xs-8">
+				<div class="row">
+					<div class="col-sm-5">
+						<div class="preview">
+							<a href="Codecademy-Airbnb.php"><img src="resources/projects/Codecademy-Airbnb/Airbnb_screenshot.png"></a>
+							<p class="caption">Project: Airbnb.com mock-up (Codecademy)</p>
+							<p class="caption">Emphasis: HTML/CSS</p>
+							<p class="caption">Completed: 13 July 2014</p>	
+						</div>
+					</div>
+					<div class="col-sm-2">
+						<p></p>
+					</div>
+					<div class="col-sm-5">
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-2">
+			</div>
+		</div>
 	</div>
-
-
-
-
-
-
-
-
-
-
 
 	<?php include "includes/footer.php";?>
 	<script src="index.js"></script>
