@@ -25,7 +25,7 @@
 }
 
 .jumbotron {
-  background-image:url('resources/projects/Codecademy-Airbnb/lodging.png');
+  background-image:url('/resources/projects/Codecademy-Airbnb/lodging.png');
   height: 500px;
 }
 

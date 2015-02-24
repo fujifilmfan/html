@@ -2,23 +2,23 @@
 <html lang="en-US">
 
 <head>
-  <?php include "includes/header.php";?>
+  <?php include "../includes/header.php";?>
   <title>Kurt Klein | Beer Wall | Coding Projects</title>
   <meta name="description" content="Kurt Klein's home page, contact information, virtual Beer Wall, and other coding projects.">
   <meta name="keywords" content="Kurt Klein, Kurt, Klein, beer, bottles, beer bottles, backpacking, pictures, photography, web apps, projects">
-  <link href="Codecademy-Flipboard.css" rel="stylesheet" type="text/css" />
+  <link href="Flipboard.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet'>
   <!-- Nov. 8, 2014 -->
 
 </head>
 
-<body class="row">
-  <?php include "includes/navigation.php";?>
+<body>
+  <?php include "../includes/navigation.php";?>
 
     <div class="header">
       <div class="container">
         <a href="#" class="logo-icon">
-          <img src="resources/projects/Codecademy-Flipboard/logo.png">
+          <img src="/resources/projects/Codecademy-Flipboard/logo.png">
         </a>
 
         <ul class="menu">
@@ -54,14 +54,14 @@
               <p>It's a single place to discover, collect and share the news you care about.  Add your favorite social networks, publications and blogs to stay connected to the topics and people closest to you.</p>
               
               <ul class="get-app">
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/ios.png"></a></li>
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/android.png"></a></li>
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/windows.png"></a></li>
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/blackberry.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/ios.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/android.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/windows.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/blackberry.png"></a></li>
               </ul>
             </div>
             <div class="slide-img col-xs-7">
-              <img src="resources/projects/Codecademy-Flipboard/home.png" width="540px">
+              <img src="/resources/projects/Codecademy-Flipboard/home.png" width="540px">
             </div>
           </div>
         </div>      
@@ -71,7 +71,7 @@
         <div class="container">
           <div class="row">
             <div class="col-xs-12">
-              <a href="#"><img src="resources/projects/Codecademy-Flipboard/cnn.png"></a>
+              <a href="#"><img src="/resources/projects/Codecademy-Flipboard/cnn.png"></a>
               <a href="#">Read Now</a>
             </div>
             
@@ -89,7 +89,7 @@
               
             </div>
             <div class="slide-img col-xs-7">
-              <img src="resources/projects/Codecademy-Flipboard/magazines.png">
+              <img src="/resources/projects/Codecademy-Flipboard/magazines.png">
             </div>
           </div>
         </div>      
@@ -104,14 +104,14 @@
               <p>Millions of people use Flipboard to read and collect the news they care about, curating their favorite stories into their own magazines. Now you can promote the ones you create or think are awesome.</p>
               
               <ul class="get-app">
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/ios.png"></a></li>
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/android.png"></a></li>
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/windows.png"></a></li>
-                <li><a href="#"><img src="resources/projects/Codecademy-Flipboard/blackberry.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/ios.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/android.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/windows.png"></a></li>
+                <li><a href="#"><img src="/resources/projects/Codecademy-Flipboard/blackberry.png"></a></li>
               </ul>
             </div>
             <div class="slide-img col-xs-7">
-              <img src="resources/projects/Codecademy-Flipboard/bw.png" width="540px">
+              <img src="/resources/projects/Codecademy-Flipboard/bw.png" width="540px">
             </div>
           </div>
         </div>      
@@ -120,16 +120,16 @@
     </div>
 
     <div class="slider-nav">
-      <a href="#" class="arrow-prev"><img src="resources/projects/Codecademy-Flipboard/arrow-prev.png"></a>
+      <a href="#" class="arrow-prev"><img src="/resources/projects/Codecademy-Flipboard/arrow-prev.png"></a>
       <ul class="slider-dots">
         <li class="dot active-dot">&bull;</li>
         <li class="dot">&bull;</li>
         <li class="dot">&bull;</li>
         <li class="dot">&bull;</li>
       </ul>
-      <a href="#" class="arrow-next"><img src="resources/projects/Codecademy-Flipboard/arrow-next.png"></a>
+      <a href="#" class="arrow-next"><img src="/resources/projects/Codecademy-Flipboard/arrow-next.png"></a>
     </div> 
-    <?php include "includes/footer.php";?>
-    <script src="Codecademy-Flipboard.js"></script>
+    <?php include "../includes/footer.php";?>
+    <script src="Flipboard.js"></script>
 </body>
 </html>

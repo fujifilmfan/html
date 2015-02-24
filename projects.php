@@ -28,7 +28,7 @@
 				<div class="row">
 					<div class="col-sm-5">
 						<div class="preview">
-							<a href="Codecademy-Flipboard.php"><img src="resources/projects/Codecademy-Flipboard/Flipboard_screenshot.png"></a>
+							<a href="projects/Flipboard.php"><img src="resources/projects/Codecademy-Flipboard/Flipboard_screenshot.png"></a>
 							<p class="caption">Project: Flipboard interactive website (Codecademy)</p>
 							<p class="caption">Emphasis: jQuery events</p>
 							<p class="caption">Completed: 8 November 2014</p>	
@@ -39,7 +39,7 @@
 					</div>
 					<div class="col-sm-5">
 						<div class="preview">
-							<a href="Codecademy-news_reader.php"><img src="resources/projects/Codecademy-news_reader/news_reader_screenshot.png"></a>
+							<a href="projects/news_reader.php"><img src="resources/projects/Codecademy-news_reader/news_reader_screenshot.png"></a>
 							<p class="caption">Project: News Reader (Codecademy)</p>
 							<p class="caption">Emphasis: jQuery events</p>
 							<p class="caption">Completed: 26 October 2014</p>
@@ -59,7 +59,7 @@
 				<div class="row">
 					<div class="col-sm-5">
 						<div class="preview">
-							<a href="Codecademy-Airbnb.php"><img src="resources/projects/Codecademy-Airbnb/Airbnb_screenshot.png"></a>
+							<a href="projects/Airbnb.php"><img src="resources/projects/Codecademy-Airbnb/Airbnb_screenshot.png"></a>
 							<p class="caption">Project: Airbnb.com mock-up (Codecademy)</p>
 							<p class="caption">Emphasis: HTML/CSS</p>
 							<p class="caption">Completed: 13 July 2014</p>	

@@ -2,17 +2,17 @@
 <html lang="en-US">
 
 <head>
-  <?php include "includes/header.php";?>
+  <?php include "../includes/header.php";?>
   <title>Kurt Klein | Beer Wall | Coding Projects</title>
   <meta name="description" content="Kurt Klein's home page, contact information, virtual Beer Wall, and other coding projects.">
   <meta name="keywords" content="Kurt Klein, Kurt, Klein, beer, bottles, beer bottles, backpacking, pictures, photography, web apps, projects">
-  <link href="Codecademy-news_reader.css" rel="stylesheet" type="text/css" />
+  <link href="news_reader.css" rel="stylesheet" type="text/css" />
   <!-- October 26, 2014 -->
 
 </head>
 
-<body class="row">
-  <?php include "includes/navigation.php";?>
+<body>
+  <?php include "../includes/navigation.php";?>
 
     <div class="articles container">
 
@@ -186,7 +186,7 @@
 
     </div>
   
-    <?php include "includes/footer.php";?>
-    <script src="Codecademy-news_reader.js"></script>
+    <?php include "../includes/footer.php";?>
+    <script src="news_reader.js"></script>
 </body>
 </html>

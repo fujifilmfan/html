@@ -2,16 +2,16 @@
 <html lang="en-US">
 
 <head>
-  <?php include "includes/header.php";?>
+  <?php include "../includes/header.php";?>
   <title>Kurt Klein | Beer Wall | Coding Projects</title>
   <meta name="description" content="Kurt Klein's home page, contact information, virtual Beer Wall, and other coding projects.">
   <meta name="keywords" content="Kurt Klein, Kurt, Klein, beer, bottles, beer bottles, backpacking, pictures, photography, web apps, projects">
-  <link href="Codecademy-Airbnb.css" rel="stylesheet" type="text/css" />
+  <link href="Airbnb.css" rel="stylesheet" type="text/css" />
   <!-- July 13, 2014 -->
 </head>
 
-<body class="row">
-    <?php include "includes/navigation.php";?>
+<body>
+    <?php include "../includes/navigation.php";?>
     <div id="projectNav" class="nav projectNav">
         <div class="container">
             <ul class="pull-left">
@@ -40,22 +40,22 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail">
-                        <img src="resources/projects/Codecademy-Airbnb/mexico-city.png">
+                        <img src="/resources/projects/Codecademy-Airbnb/mexico-city.png">
                     </div>
                     <div class="thumbnail">
-                        <img src="resources/projects/Codecademy-Airbnb/ny.png">
+                        <img src="/resources/projects/Codecademy-Airbnb/ny.png">
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                        <img src="resources/projects/Codecademy-Airbnb/tokyo.png">
+                        <img src="/resources/projects/Codecademy-Airbnb/tokyo.png">
                     </div>
                     <div class="thumbnail">
-                        <img src="resources/projects/Codecademy-Airbnb/paris.png">
+                        <img src="/resources/projects/Codecademy-Airbnb/paris.png">
                     </div></div>
                     <div class="col-md-4">
                         <div class="thumbnail">
-                            <img src="resources/projects/Codecademy-Airbnb/invite.png">
+                            <img src="/resources/projects/Codecademy-Airbnb/invite.png">
                         </div>
                     </div>
                 </div>
@@ -83,6 +83,6 @@
             </div>
         </div>
     </body>
-    <?php include "includes/footer.php";?>
-    <script src="Codecademy-Airbnb.js"></script>
+    <?php include "../includes/footer.php";?>
+    <script src="Airbnb.js"></script>
 </html>
