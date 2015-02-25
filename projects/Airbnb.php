@@ -82,7 +82,7 @@
                 </div>
             </div>
         </div>
-    </body>
     <?php include "../includes/footer.php";?>
     <script src="Airbnb.js"></script>
+</body>
 </html>

@@ -50,7 +50,9 @@
 			</div>
 			<div class="col-xs-2">
 			</div>
-		</div>
+		</div><!-- row -->
+
+		<div class="break"></div>
 
 		<div class="row">
 			<div class="col-xs-2">
@@ -69,13 +71,22 @@
 						<p></p>
 					</div>
 					<div class="col-sm-5">
+						<div class="preview">
+							<a href="projects/BBC.php"><img src="resources/projects/BBC/BBC_screenshot.png"></a>
+							<p class="caption">Project: BBC.com mock-up (Complete Web Dev - Udemy)</p>
+							<p class="caption">Emphasis: HTML/CSS</p>
+							<p class="caption">Completed: 22 December 2014</p>	
+						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-xs-2">
 			</div>
-		</div>
-	</div>
+		</div><!-- row -->
+		
+		<div class="break"></div>
+
+	</div><!-- container-fluid -->
 
 	<?php include "includes/footer.php";?>
 	<script src="index.js"></script>
