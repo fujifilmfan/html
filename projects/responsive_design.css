@@ -1,0 +1,115 @@
+body {
+	font-family: Helvetica, Verdana, sans-serif;
+}
+
+.main img {
+	width: 100%;
+}
+
+h1 {
+	font-size: 1.625em;
+}
+
+h2 {
+	font-size: 1.375em;
+}
+
+.header {
+	padding: 1.0%;
+	background-color: rgb(153, 204, 255);
+	border: 1px solid rgb(224, 224, 224);
+}
+
+.menuitem {
+	margin: 4.0%;
+	margin-left: 0;
+	margin-top: 0;
+	padding: 4.3%;
+	border-bottom: 1px solid rgb(224, 224, 224);
+	cursor: pointer;
+}
+
+.main {
+	padding: 2.0%;
+}
+
+.right {
+	padding: 4.3%;
+	background-color: rgb(204, 152, 102);
+}
+
+.footer {
+	padding: 1.0%;
+	text-align: center;
+	background-color: rgb(153, 204, 255);
+	border: 1px solid rgb(224, 224, 224);
+	font-size: 0.625em;
+}
+
+.gridcontainer {
+	width: 100%;
+}
+
+.gridrow {
+	overflow: hidden;
+}
+
+.gridbox {
+	margin-bottom: 2.0%;
+	margin-right: 2.0%;
+	float: left;
+}
+
+.gridheader {
+	width: 100%;
+}
+
+.gridmenu {
+	width: 23.5%;
+}
+
+.gridmain {
+	width: 49.0%;
+}
+
+.gridright {
+	width: 23.5%;
+	margin-right: 0;
+}
+
+.gridfooter {
+	width: 100%;
+	margin-bottom: 0;
+}
+
+@media only screen and (max-width: 768px) {
+	.gridmenu {
+		width: 100%;
+	}
+
+	.menuitem {
+		margin: 1.0%;
+		padding: 1.0%;
+	}
+
+	.gridmain {
+		width: 100%;
+	}
+
+	.main {
+		padding: 1.0%;
+	}
+
+	.gridright {
+		width: 100%;
+	}
+
+	.right {
+		padding: 1.0%;
+	}	
+
+	.gridbox {
+		margin-right: 0;
+		float: left;
+	}
+}
